@@ -6,6 +6,6 @@
 
 **Aqui esta meu site que venho desenvolvendo**
 
-[bardocanhadao](https://github.com/kanarski660/BarDoCanhadao.git)
+[BarDoCanhadao](https://github.com/kanarski660/BarDoCanhadao.git)
 
 ![github](https://www.iugu.com/hubfs/O-que-%C3%A9-github-e-qual-a-sua-import%C3%A2ncia-para-a-programa%C3%A7%C3%A3o.jpg)
